@@ -1,1 +1,2 @@
 # Student-Management-System
+The Student Management System is a comprehensive software solution designed to streamline the administrative tasks associated with managing student information within educational institutions. Developed using Java Swing for the user interface and MySQL for the backend database management, this system offers a user-friendly interface for administrators to efficiently handle various aspects of student data management.
